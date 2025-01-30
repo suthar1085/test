@@ -257,6 +257,9 @@ height: 160px;
 }
 
 @media (width < 600px){
+  body {
+  font-size: 15px;
+  }
   h1{
     font-size: 1.8rem;
   }
