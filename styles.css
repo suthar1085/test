@@ -284,7 +284,7 @@ height: 160px;
     flex-direction: column-reverse;
   }
   .vis-box{
-    min-height: 150px;
+    min-height: 160px;
   }
   .reverse {
     flex-direction: column-reverse !important;
